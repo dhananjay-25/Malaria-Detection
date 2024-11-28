@@ -120,7 +120,7 @@ model = Sequential([
  [ 0 43]]
 
 ```
-#### ![confusion matrix](image.png)
+#### ![confusion matrix](images/image.png)
 
 #### **Training and Validation Accuracy**
 
@@ -138,11 +138,11 @@ model = Sequential([
 -   **Accuracy Curve**:
     -   Visualize training vs. validation accuracy over epochs.
 
-    ![accuracy](image-1.png)
+    ![accuracy](images/image-1.png)
 -   **Loss Curve**:
     -   Visualize training vs. validation loss over epochs.
 
-    ![loss](image-2.png)
+    ![loss](images/image-2.png)
 
 **Example Graphs**:
 
@@ -244,7 +244,7 @@ To facilitate easy and intuitive testing of the trained model, an interactive ap
     -   Confidence: `0.92`
     -   Display: Uploaded image with a title showing prediction and confidence.
 
-    - ![output](image-3.png)
+    - ![output](images/image-3.png)
 
 #### **Code Snippet**
 
